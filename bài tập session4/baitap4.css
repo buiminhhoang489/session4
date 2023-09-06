@@ -1,0 +1,12 @@
+h1{text-align: center;}
+body{background-color: #F5F5F5;}
+form{background-color: #FFFFFF;
+;
+}
+#id{text-align: right;}
+.button{background-color: #333333;
+color: white;}
+label{margin:10px;}
+input, textarea{width: 99%;
+}
+.button{width:5%}
